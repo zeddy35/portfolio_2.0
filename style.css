@@ -1,0 +1,32 @@
+html {
+    font-family: PT Sans;
+}
+
+
+.zed {
+    border-radius: 10%;
+    max-height: 400px;
+    max-width: 300px;
+}
+
+.hero{
+    background: rgb(4,73,200);
+    background: linear-gradient(130deg, rgba(4,73,200,1) 25%, rgba(2,7,1,1) 100%, rgba(5,15,6,1) 100%);
+}
+
+.date {
+    color:rgba(4,73,200,1);
+}
+
+.project {
+    color: white;
+}
+
+.lead {
+    color: #F9F7F7;
+}
+
+.contact_me {
+    display:inline;
+    text-align: center;
+}
